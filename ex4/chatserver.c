@@ -1,7 +1,6 @@
 /*
 ** NAME :Abdallah Natsheh
 ** ID: 
-i have final semester exams so i didnt do it all , if there's more than the maximum number of clients try to connect the server will shutdown and exit !!! 
 */
 
 #include <stdio.h>
